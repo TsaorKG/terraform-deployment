@@ -1,5 +1,12 @@
 # Requirements
 
+Tested with
+
+    Python v3.7.0
+    Terraform v0.11.8
+    azure-cli v2.0.46
+    provider-azurerm v1.15.0_x4
+
 ## Python3 
 
 ### Install on MacOs
