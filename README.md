@@ -2,6 +2,8 @@
 
 In this repository you will find some custom modules to deploy resources in Amazon Web Services or Microsoft Azure.
 
+![terraform](docs/terraform.gif)
+
 ### Available Azure modules
 
 * [resource_group](./MicrosoftAzure/modules/resource_group)
