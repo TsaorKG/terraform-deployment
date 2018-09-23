@@ -2,29 +2,31 @@
 
 ## Python3 
 
-### Install
+### Install on MacOs
 
     brew update 
     brew install python3
     brew upgrade python3
 
-### Link
+#### Link
 
     brew link --overwrite python3
 
 ## Azure-cli 
 
-### Install 
+### Install on MacOs
 
     brew update 
     brew install azure-cli
 
-### Upgrade
+#### Upgrade
 
     brew upgrade azure-cli
 
-### Login
+##### Login
 
     az login
 
-### Modules
+## Modules
+
+The list of all available module in this repository is [here](./modules)
