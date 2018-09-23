@@ -22,6 +22,12 @@ variable "subnet_id" {
     description = "Subnet id"
 }
 
-variable "pub_ip_id" {
-    description = "Public IP address id"
+variable "private_ip_allocation" {
+    description = "Static or dynamic"
+    default = "static"
 }
+
+variable "private_ip_address" {
+    description = "Static private IP"
+}
+
