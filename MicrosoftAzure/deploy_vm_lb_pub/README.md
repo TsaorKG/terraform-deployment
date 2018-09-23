@@ -1,5 +1,11 @@
 # Test the template
 
+You will deploy the following architecture
+
+---
+![graph](graph.svg)
+
+---
 ## Run
     terraform init
     terraform apply
