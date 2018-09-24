@@ -19,6 +19,8 @@ In this repository you will find some custom modules to deploy resources in Amaz
 * [lb_probe](./MicrosoftAzure/modules/lb_probe)
 * [lb_backend_pool](./MicrosoftAzure/modules/lb_backend_pool)
 * [lb_rule](./MicrosoftAzure/modules/lb_rule)
+* [application_gateway](./MicrosoftAzure/modules/application_gateway)
+* [backend_multi_vms](./MicrosoftAzure/modules/backend_multi_vms)
 
 ### AWS modules
 

@@ -15,4 +15,5 @@
 * [lb_probe](./lb_probe)
 * [lb_backend_pool](./lb_backend_pool)
 * [lb_rule](./lb_rule)
-
+* [application_gateway](./application_gateway)
+* [backend_multi_vms](./backend_multi_vms)
